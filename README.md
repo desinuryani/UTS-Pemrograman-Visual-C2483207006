@@ -39,14 +39,14 @@ JTextArea	: Menyusun teks struk yang akan dicetak.
 D.	Tampilan Aplikasi
 
 1. Tampilan Utama
-![Tampilan Utama TAPIN](screenshots/S.-Tampilan_utama.png)
+![Tampilan Utama TAPIN](screenshots/S.Tampilanutama.png)
 
 
 3. Hasil Perhitungan Total
-![Hasil Perhitungan Total](screenshots/S.-bayar.png)
+![Hasil Perhitungan Total](screenshots/S.bayar.png)
 
 4. Hasil Pembayaran dan Uang Kembalian
-![Hasil Pembayaran dan Uang Kembalian](screenshots/S.-cetakstruk.png)
+![Hasil Pembayaran dan Uang Kembalian](screenshots/S.cetakstruk.png)
 
 Cara Menjalankan Aplikasi
 
